@@ -1,6 +1,6 @@
 # RemoverVaoloresRepetido
 __________________________
-Explicação do Algoritmo:
+# Explicação do Algoritmo:
 Inicialização do Array Resultado: O código cria um array vazio arraySemDuplicatas para armazenar os valores únicos.
 Loop Externo para Percorrer o Array Original: O primeiro loop for é usado para iterar sobre cada elemento do array original.
 Verificação de Presença com Loop Interno: Para cada elemento do array original, um segundo loop for é usado para verificar se esse elemento já está presente no array arraySemDuplicatas.
